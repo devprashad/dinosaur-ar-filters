@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "audiorunning",
+  "identifier": "playback_controller_model:149700-1db47f72-8004-4373-9096-cb6ed8168632",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:151724-1db47f72-8004-4373-9096-cb6ed8168632"
+}

@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "animationtail",
+  "identifier": "animation_playback_controller_model:155974-23d59f11-e7ca-43ee-81c0-33b0de64ea07",
+  "animationIdentifier": "objects/meshtrex/Tail Attack.animation",
+  "autoPlay": true,
+  "clipEnd": 6,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1
+}

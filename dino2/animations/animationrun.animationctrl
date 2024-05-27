@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "animationrun",
+  "identifier": "animation_playback_controller_model:144064-23d59f11-e7ca-43ee-81c0-33b0de64ea07",
+  "animationIdentifier": "objects/meshtrex/Run.animation",
+  "autoPlay": true,
+  "clipEnd": 9.25,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1
+}
