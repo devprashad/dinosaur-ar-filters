@@ -1,8 +1,0 @@
-{
-  "modelName": "playback_controller_model",
-  "name": "audioflying",
-  "identifier": "playback_controller_model:507215-23d59f11-e7ca-43ee-81c0-33b0de64ea07",
-  "needsContinuousLooping": false,
-  "needsContinuousPlaying": false,
-  "soundIdentifier": "sound:259454-23d59f11-e7ca-43ee-81c0-33b0de64ea07"
-}
